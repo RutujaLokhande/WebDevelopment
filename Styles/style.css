@@ -1,0 +1,78 @@
+#topnavbar
+{
+	float:right;
+	margin-right:100px;
+}
+.navsize
+{
+	padding-top:10px;
+}
+.p1
+{
+	color:white;
+}
+.p2
+{
+	color:grey;
+}
+#myform
+{		
+	text-align:center;
+	padding:30px;
+	border-radius:10px;
+	font-size:30px;
+}
+.lasttext
+{
+	font-size:25px;
+	text-align:center;
+	margin-top:12px;
+}
+
+#txt1
+{
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}	
+.carouselimg
+{
+	width:100%;
+}
+.cardcol
+{
+	background-color:white;
+}
+.cardalt
+{
+	background-color:#e1eedd;
+}
+h2
+{
+	text-align:center;
+}
+#id1
+{
+	text-align:center;
+	margin-top:100px;
+	font-size:30px;
+}
+.abtusimgs
+{
+	height:160px; 
+	width:100%; 
+	margin-top:20px; 
+	margin-bottom:20px; 
+	border-radius:20px;
+}
+.categoryhead
+{
+	 padding-top:60px;
+}
+.shopfooter
+{
+	text-align:center;
+	margin-top:30px; 
+	margin-bottom:30px; 
+	font-size:25px;
+}		
